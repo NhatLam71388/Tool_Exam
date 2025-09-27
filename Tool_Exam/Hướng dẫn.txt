@@ -1,0 +1,9 @@
+--------------------------Listen----------------------------
+Tải obs và nircmd, vào cmd nircmd chạy câu lệnh sau: [nircmd win hide ititle "OBS"] để ẩn obs đi
+
+
+
+
+
+Các thông tin sẽ được gửi lên chatbot telegram
+
